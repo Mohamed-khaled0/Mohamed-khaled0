@@ -3,7 +3,7 @@
 ![I'm a Data Analyst](https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-1024-80.jpg.webp)
 
  I'm Mohamed from Egypt. I really enjoy learning languages and frameworks like Python (Pandas, Numpy )], as well as working in SQL, Excel , and Tableau 
- I learn these skills, to help the future company that I will work for, make the best decisions, which in turn will improve and raise its efficiency.
+I learned these skills, to help the future company that I will work for, to make the best decisions, which in turn will improve and raise its efficiency.
 
 Skills: SQL,Excel ,Statistics ,Tableau ,Python
 
