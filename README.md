@@ -12,8 +12,7 @@ I learned these skills, to help the future company that I will work for, to make
 * Statistics 
 * Python
 
-## Examples of Work
-<img src="file:///C:/Users/Mohamed/Downloads/GITHUBB.PNG"width="256">
+
 
 - 🔭 I’m currently working on Tasks from the Sparks Foundation 
 - 🌱 I’m currently learning Python 
