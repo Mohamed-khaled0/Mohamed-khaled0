@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mohamed 
+### Hi there 👋, My Name is Mohamed 
 #### I'm a Data Analyst
 ![I'm a Data Analyst](https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-1024-80.jpg.webp)
 
