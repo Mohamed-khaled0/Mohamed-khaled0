@@ -2,17 +2,15 @@
 # I'm A Data Scientist | Data Analyst | Intern at The Sparks Foundation
 
 
-**Mohamed-khaled0/Mohamed-khaled0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Mohamed 
+#### I'm a Data Analyst
+![I'm a Data Analyst](https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf-1024-80.jpg.webp)
 
-Here are some ideas to get you started:
+ I'm Mohamed from Egypt. I enjoy learning languages and frameworks like Python (Pandas, Numpy )], as well as working in SQL, Excel , and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: SQL,Excel ,Statistics ,Tableau
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
