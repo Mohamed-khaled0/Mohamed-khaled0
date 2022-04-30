@@ -9,7 +9,7 @@ I learned these skills, to help the future company that I will work for, to make
 * Excel
 * Tableau 
 * Statistics 
-* Python
+* Basics Python
 
 
 
