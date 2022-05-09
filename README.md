@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamed Khaled
-### I'm a Data Analyst
 
- I'm Mohamed from Egypt. I really enjoy learning languages and tools like SQL ,Excel ,Tableau 
+### I'm a Data Analyst from Egypt.
+I really enjoy learning languages and tools like SQL ,Excel ,Tableau 
 I learned these skills, to help the future company that I will work for, to make the best decisions, which in turn will improve and raise its efficiency.
 
 ## Skills:
