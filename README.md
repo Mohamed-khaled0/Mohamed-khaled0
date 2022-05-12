@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Mohamed Khaled
 
 ### I'm a Data Analyst
-I really enjoy learning languages and tools like SQL ,Excel ,Tableau 
-I learned these skills, to help the future company that I will work for, to make the best decisions, which in turn will improve and raise its efficiency.
+#### Hi I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled for most data-analysis steps: data pre-processing, application of statistical methods, data visualization and results communication, I want to work with organizations that want to make effective use of their data 
 
 ## Skills:
 * SQL
