@@ -3,6 +3,8 @@
 ### I'm a Data Analyst
 #### Hi I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled for most data-analysis steps: data pre-processing, application of statistical methods, data visualization and results communication, I want to work with organizations that want to make effective use of their data .
 
+### My Website: https://mohamed-khaled0.github.io/My_Website/
+
 ## Skills:
 * SQL
 * Excel
@@ -15,8 +17,6 @@
 - 🔭 I’m currently working on Tasks from the Sparks Foundation 
 - 🌱 I’m currently learning PostgreSQL 
 - 📫 How to reach me: mohamedalshraby3@gmail.com  
-- ⚡ Fun fact: I’m a beginner boxer 😀 
-- My Website: https://mohamed-khaled0.github.io/My_Website/
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-khaled-abdallah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mohamedelshraby) 
 
