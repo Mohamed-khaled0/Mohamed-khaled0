@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamed Khaled
 
 ### I'm a Data Analyst
-#### Hi I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled for most data-analysis steps: data pre-processing, application of statistical methods, data visualization and results communication, I want to work with organizations that want to make effective use of their data 
+#### Hi I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled for most data-analysis steps: data pre-processing, application of statistical methods, data visualization and results communication, I want to work with organizations that want to make effective use of their data .
 
 ## Skills:
 * SQL
