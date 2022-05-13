@@ -4,6 +4,8 @@
 #### Hi, I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled in most data-analysis steps: data pre-processing, application of statistical methods, data visualization, and results in communication, I want to work with organizations that want to make effective use of their data.
 
 ### My Website: https://mohamed-khaled0.github.io/My_Website/
+### My Resume : https://mohamed-khaled0.github.io/My_Website/Mohamed-Khaled-CV.pdf
+
 
 ## Skills:
 * SQL
@@ -17,7 +19,8 @@
 - 🔭 I’m currently working on Tasks from the Sparks Foundation 
 - 🌱 I’m currently learning PostgreSQL 
 - 📫 How to reach me: mohamedalshraby3@gmail.com  
-
+- 🌱 ask me about Excel and SQL 
+- 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-khaled-abdallah//)  
 
 
