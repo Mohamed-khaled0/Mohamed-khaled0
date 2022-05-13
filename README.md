@@ -3,8 +3,8 @@
 ### I'm a Data Analyst
 #### Hi, I'm Mohamed. My job consists in helping companies to analyze their datasets. I am skilled in most data-analysis steps: data pre-processing, application of statistical methods, data visualization, and results in communication, I want to work with organizations that want to make effective use of their data.
 
-### My Website: https://mohamed-khaled0.github.io/My_Website/
-### My Resume : https://mohamed-khaled0.github.io/My_Website/Mohamed-Khaled-CV.pdf
+#### My Website: https://mohamed-khaled0.github.io/My_Website/
+#### My Resume : https://mohamed-khaled0.github.io/My_Website/Mohamed-Khaled-CV.pdf
 
 
 ## Skills:
