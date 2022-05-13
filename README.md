@@ -21,7 +21,7 @@
 - 📫 How to reach me: mohamedalshraby3@gmail.com  
 - 🌱 ask me about Excel and SQL 
 
- - LinkedIn :[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-khaled-abdallah//)  
+ # LinkedIn :[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-khaled-abdallah//)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-khaled0)](https://github.com/anuraghazra/github-readme-stats)
