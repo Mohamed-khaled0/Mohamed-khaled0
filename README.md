@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamed Khaled
 
-### I'm a Data Analyst
-#### My job consists in helping companies to analyze their datasets. I am skilled in most data-analysis steps: data pre-processing, application of statistical methods, data visualization, and results in communication, I want to work with organizations that want to make effective use of their data.
+### I'm a Quality Control Engineer
+#### Aim to work in a challenging work environment where I can utilize my expertise in resolving the problems in test-plans and advocate my analytical skills towards the growth of the organization.
 
 #### Website: https://mohamed-khaled0.github.io/My_Website/
 #### LinkedIn :https://www.linkedin.com/in/mohamed-khaled-abdallah/
@@ -13,6 +13,7 @@
 * Tableau 
 * Statistics 
 * Basics Python
+* HTML,CSS
 
 #
 
