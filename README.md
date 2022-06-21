@@ -8,12 +8,18 @@
 
 
 ## Skills:
-* SQL
-* Excel
-* Tableau 
-* Statistics 
-* Basics Python
-* HTML,CSS
+* Good knowledge of software testing techniques covered in ISTQB syllabus.
+* Reading and understanding businessrequirements and finding defectsin test basis.
+* Designing effective test cases and bug reports.
+* Agile software methodologies.
+* Manual Testing.
+* SDLC and STLC.
+* SQL.
+* Excel.
+* Tableau .
+* Statistics .
+* Basics Python , C ,C++.
+* HTML,CSS.
 
 #
 
