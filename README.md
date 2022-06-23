@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on Tasks from the Sparks Foundation 
 - 🌱 I’m currently learning PostgreSQL 
 - 📫 How to reach me: mohamedalshraby3@gmail.com  
-- 🌱 ask me about Excel and SQL 
+- 🌱 ask me about Excel , SQL , Testing
 # 
 
 
