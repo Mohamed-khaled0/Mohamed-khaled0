@@ -5,8 +5,7 @@
 
 #### Website: https://mohamed-khaled0.github.io/My_Website/
 #### LinkedIn :https://www.linkedin.com/in/mohamed-khaled-abdallah/
-#### CV : file:///C:/Users/Mohamed/Downloads/Mohamed-Khaled-CV.pdf
-
+#### CV : https://drive.google.com/file/d/1JLGomfmnYg3YwfBxJb5tuWa0-W_mCm9-/view
 
 ## Skills:
 * Good knowledge of software testing techniques covered in ISTQB syllabus.
