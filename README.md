@@ -5,6 +5,7 @@
 
 #### Website: https://mohamed-khaled0.github.io/My_Website/
 #### LinkedIn :https://www.linkedin.com/in/mohamed-khaled-abdallah/
+#### CV : file:///C:/Users/Mohamed/Downloads/Mohamed-Khaled-CV.pdf
 
 
 ## Skills:
