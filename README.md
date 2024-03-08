@@ -15,10 +15,10 @@
 <picture> <img align="right" </picture>
 <br>
 
-- :school: I am a `Student` at Faculty of Computer Science at Thebes Academy
-- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`
-- 🌱 I’m currently learning `Flutter`  
-- :technologist: I love using Software as a solution for every `Problem`
+- :school: I am a `Student` at Faculty of Computer Science 
+- :thinking: I’m currently open for: `An Internship` 
+- 🌱 I’m currently learning `Flutter`  and `Native IOS`  
+- :technologist: I love using software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -30,6 +30,7 @@
 <!-- ======= Skills Section ======= -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
+### Programming Languages & Frameworks
 <p align="left">
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -40,31 +41,51 @@
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a>
-
-
 </p>
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+
+### Version Control
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
     </a>
-    
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
 </p>
 
+### API Development and Testing
+<p align="left">
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
 </p>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
-</a>
+
+### Database Skills
+<p align="left">
+    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+    </a>
+    <a href="https://realm.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+</p>
+
+### Integrated Development Environments (IDE)
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
+    </a>
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
+    </a>
 </p>
 <!-- ======= End Skills Section ======= -->
-
 
  <!-- ======= Github Stats Section ======= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
