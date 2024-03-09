@@ -78,11 +78,10 @@
 
 ### Integrated Development Environments (IDE)
 <p align="left">
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
-    </a>
-    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
     </a>
 </p>
 <!-- ======= End Skills Section ======= -->
