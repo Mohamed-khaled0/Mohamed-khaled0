@@ -7,7 +7,7 @@
     </div>
  
 <p align="center">
-  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Mobile+Developer;Software+Engineer"></a>
+  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++IOS+Intern+@+CodeAlpha;iOS+Software+Engineer"></a>
 </p>
 
 <!-- ======= About Section ======= -->
@@ -15,7 +15,6 @@
 <picture> <img align="right" </picture>
 <br>
 
-- :school: I am a `Student` at Faculty of Computer Science 
 - :thinking: I’m currently open for: `An Internship` 
 - 🌱 I’m currently learning `Flutter`  and `Native IOS`  
 - :technologist: I love using software as a solution for every `Problem`
