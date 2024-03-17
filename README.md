@@ -13,22 +13,42 @@
 <!-- ======= About Section ======= -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" </picture>
-<br>
 
-- :thinking: I’m currently open for: `An Internship` 
-- 🌱 I’m currently learning `Flutter`  and `Native IOS`  
-- :technologist: I love using software as a solution for every `Problem`
-- :nerd_face: Always `learning new things`
+🚀 Passionate iOS software engineer with a portfolio that includes more than five completed apps.
+
+🌟 I did summer internships at several companies, including The Sparks Foundation and CodeAlpha.
+
+🔍 Seeking an iOS internship at a dynamic software solutions company where I can leverage my technical and communication skills.
+
+### 📋 Responsibilities 
+---
+📱 Design, develop, and maintain iOS applications.
+
+💡 Take initiative by suggesting new technologies, ideas, and approaches.
+
+🤝 Collaborate with colleagues in a fluid, cross-functional team environment.
+
+🐛 Identify and correct bottlenecks and fix bugs.
+
+🎓 A quick learner who can adapt quickly to any changes and work with different people.
+
+📚 Continuously developing my personal and technical skills and leveraging the experiences of others.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+- 📱 UIKit, Storyboard, Auto Layout
+- 🧠 Object-Oriented Programming (OOP), Swift
+- 🎨 SwiftUI for building modern and intuitive user interfaces
+- 🏗️ Design Patterns: MVC, MVP, and MVVM
+- 🔍 Core Location for location features
+- 🌐 Networking: Working with URLSession and Alamofire for web requests
+- 💾 Cloud Data: Using Firebase and Firestore for cloud-based data storage
+- 💾 Local Data: Managing data locally with CoreData, Realm, and UserDefaults
+- 📦 Dependencies: Handling external libraries with CocoaPods and Swift Package Manager
+- 🔗 Version Control: Tracking changes and collaborating with Git and GitHub
 
 <br>
  <!-- ======= End About Section ======= -->
- <!-- =======  Profile views Section ======= -->
-<a href="https://github.com/Mohamed-khaled0/">
-
- <!-- ======= Profile views Section ======= -->
-<!-- ======= Skills Section ======= -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-
+ 
 ### Programming Languages & Frameworks
 <p align="left">
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -52,7 +72,7 @@
     </a>
 </p>
 
-### API Development and Testing
+### API Development 
 <p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -69,9 +89,6 @@
     </a>
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
 </p>
 
@@ -110,9 +127,12 @@
  <!-- ======= Repository Overview Section ======= -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+<a href="https://github.com/Mohamed-khaled0/E-Commerce-IOS-CodeAlpha-Internship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=E-Commerce-IOS-CodeAlpha-Internship&theme=tokyonight" />
+</a>
 
-<a href="https://github.com/Mohamed-khaled0/WeatherApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=WeatherApp&theme=tokyonight" />
+<a href="https://github.com/Mohamed-khaled0/Clima-Weather-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Clima-Weather-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Mohamed-khaled0/NewsApp">
