@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" </picture>
 
-🚀 Passionate iOS software engineer with a portfolio that includes more than five completed apps.
+🚀 Passionate iOS software engineer with a portfolio that includes more than seven completed apps.
 
 🌟 I did summer internships at several companies, including The Sparks Foundation and CodeAlpha.
 
@@ -135,17 +135,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Clima-Weather-App&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Mohamed-khaled0/Flash-Chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Flash-Chat&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/Mohamed-khaled0/NewsApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=NewsApp&theme=tokyonight" />
 </a>
 
 
-<a href="https://github.com/Mohamed-khaled0/Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Chat-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Mohamed-khaled0/Store-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Store-App&theme=tokyonight" />
+<a href="https://github.com/Mohamed-khaled0/Easy-Notes-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Easy-Notes-App&theme=tokyonight" />
 </a>
 
 
